@@ -272,9 +272,9 @@
 
 ## `FDE_MODEL` — логическая модель данных
 
-![Логическая модель данных системы доставки](src/FDE_MODEL.png)
+![Логическая модель данных системы доставки](diagrams/FDE_MODEL.png)
 
-[`FDE_MODEL.png`](src/FDE_MODEL.png) представляет логическую модель данных системы быстрой доставки в виде ER-диаграммы.
+[`FDE_MODEL.png`](diagrams/FDE_MODEL.png) представляет логическую модель данных системы быстрой доставки в виде ER-диаграммы.
 
 Модель включает:
 
@@ -308,7 +308,7 @@
 
 **Область рассмотрения:** **TO BE**.
 
-![FDE Data Flow Diagram](src/FDE_DFD.png)
+![FDE Data Flow Diagram](diagrams/FDE_DFD.png)
 
 Редактируемый исходник: [FDE_DFD.jam](diagrams/FDE_DFD.jam)
 
@@ -332,7 +332,7 @@
 
 **Область рассмотрения:** **TO BE**.
 
-![FDE Swimlane Diagram](src/FDE_SWD.png)
+![FDE Swimlane Diagram](diagrams/FDE_SWD.png)
 
 Редактируемый исходник: [FDE_SWD.jam](diagrams/FDE_SWD.jam)
 
@@ -354,7 +354,7 @@
 
 **Область рассмотрения:** **TO BE**.
 
-![FDE Extended Swimlane Diagram](src/FDE_ADSWD.png)
+![FDE Extended Swimlane Diagram](diagrams/FDE_ADSWD.png)
 
 Редактируемый исходник: [FDE_ADSWD.jam](diagrams/FDE_ADSWD.jam)
 
@@ -379,13 +379,13 @@
 
 **Область рассмотрения:** **TO BE**.
 
-![FDE State Diagram](src/FDE_DST.png)
+![FDE State Diagram](diagrams/FDE_DST.png)
 
 Редактируемый исходник: [FDE_DST.jam](diagrams/FDE_DST.jam)
 
 ## `FDE_TST` — State Table
 
-[`FDE_TST.xlsx`](tables/FDE_TST.xlsx) содержит таблицу состояний объекта
+[`FDE_TST.xlsx`](src/FDE_TST.xlsx) содержит таблицу состояний объекта
 **«Начисление оплаты курьеру»**.
 
 Таблица описывает жизненный цикл начисления оплаты курьеру
